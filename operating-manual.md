@@ -4,13 +4,13 @@ Inspired by Michael Lopp, Pat Berry, and Ed Rose
 
 ## Core beliefs in a nutshell
 
-As a leader, I believe that my first job is to hold doors open and enable you.  This means that if you, for any reason, are feeling like you're facing anything preventing you from doing your best work, speak up and let me know.  This means that I am relatively hands-off - you were hired for a good reason, and I trust that you're going to do your best and that you'll flag me down if something comes up.
+As a leader, I believe that my first job is to hold doors open and enable you.  This means that if you, for any reason, are feeling like you're facing anything preventing you from doing your best work, speak up and let me know.  This also means that I am relatively hands-off - you were hired for a good reason, and I trust that you're going to do your best and that you'll flag me down if something comes up.
 
-I also believe in being as transparent as possible.  Though there are sometimes laws and policies that prevent me from divulging information, I am a completely open book.
+I also believe in being as transparent as possible.  Though there are sometimes laws and policies that prevent me from divulging information, I am an otherwise completely open book.
 
 Finally, I believe that diverse teams produce the best results.  To quote Mike Monteiro: "I mean, you don’t build a good baseball team by piling up 25 great shortstops."
 
-## Quick Stats and Personality Tests
+## Quick Stats
 
 ### Facts, Figures, and Infos
 
@@ -18,11 +18,11 @@ Finally, I believe that diverse teams produce the best results.  To quote Mike M
 - Places I've lived: 1 - Chico born and raised!
 - When did I start at Build: April 10th, 2013.
 - Last job before Build: I worked for a company called Wanderful Media for about 7.5 years.  My last position there was software support/web development.
-- What I do outside of work: I enjoy playing concerts with my band [Mixtape](https://www.facebook.com/mixtapeBand530/) - I've been a guitarist for 20 years and sing, as well.  I also enjoy cooking and have taken a few cooking classes in France and Italy.  Whiskey (bourbon and rye) is my preferred libation, though wine (bordeaux and cabernet sauvignon) and beer (porter, stout, IPA) are also both very appreciated.
+- What I do outside of work: I enjoy playing concerts with my band [Mixtape](https://www.facebook.com/mixtapeBand530/) - I've been a guitarist for 20 years and sing, as well.  I also enjoy cooking and have taken a few cooking classes in France and Italy.  Whiskey (bourbon and rye) is my preferred libation, though wine (bordeaux and cabernet sauvignon) and beer (porter, stout, IPA) are also very appreciated.
 
 ### Personality Tests
 
-You may or may not buy into the idea of personality tests, but they can be useful to some.  Here are the results I've gotten from a few different services.
+You may or may not buy into the idea of personality tests, but they can be useful to some.  Here are the results I've gotten from a few different ones.
 
 - Myers-Briggs: [ESFP-T](https://www.16personalities.com/profiles/60df0a88d8824)
   - Extraverted – 75%
@@ -49,7 +49,7 @@ Also, that thing where you bend over to pick something up but keep not actually 
 
 **How will I know when you’re grumpy?**
 
-I can be unintentionally terse.  It's a really bad habit and I am working on resolving it.  Know, however, that if I'm grumpy over something you've done, I will tell you.  I also get mad at situations, not people.
+I can be unintentionally terse.  It's a really bad habit and I am working on resolving it.  Know, however, that if I'm grumpy over something you've done, I will tell you.  I generally get mad at situations, not people.
 
 **How can I help you when you’re grumpy?**
 
@@ -57,7 +57,7 @@ Generally, I just need a little time.  Let me rant it out (preferably over a dri
 
 **How do you like feedback - the medium (IRC, email, in person, etc.)**
 
-Anything and everything!  I feel that the gravity of the feedback warrants different feedback mechanisms.  Gonna drop a bomb on me?  Let's meet face-to-face (Zoom is close enough).  Just wanting to drop a note?  Chat and email are totally fine.
+Anything and everything!  I feel that the gravity of the feedback warrants different feedback mechanisms.  Gonna drop a bomb on me?  Let's meet face-to-face (Zoom is usually close enough).  Just wanting to drop a note?  Chat and email are totally fine.
 
 **How do you like feedback - routine like in 1:1s, or as-it-happens**
 
@@ -79,7 +79,7 @@ For the calendar year, I want to keep improving as a manager, especially for rem
 
 **What do you need from your manager?**
 
-Context and direction.  Also encouragement and cheerleading.  Not sure about that order though.
+Context and direction.  Also encouragement and cheerleading.  Not necessarily in that order though.
 
 **From your team?**
 
@@ -96,4 +96,4 @@ Chocolate chip cookies.  Hands down.  I once spent about a month trying to get t
 ## Other random tidbits
 
 - I like to nerd out on things.  Whiskey, bags, music, guitars and guitar gear.  I like to dive deep and fully immerse myself in subjects and learn as much as I can.
-- Right now, my musical acts include The Band Royale, Gary Clark Jr., Philip Sayce, Jimmie Vaughan, and Stevie Ray Vaughan (always SRV)
+- Right now, my playsts include The Band Royale, Gary Clark Jr., Philip Sayce, Jimmie Vaughan, and Stevie Ray Vaughan (always SRV).  Other stuff comes and goes, as well.
